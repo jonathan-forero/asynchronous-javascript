@@ -1,0 +1,22 @@
+{
+  "name": "asynchronous-javascript-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-forero/asynchronous-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jonathan Forero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathan-forero/asynchronous-javascript/issues"
+  },
+  "homepage": "https://github.com/jonathan-forero/asynchronous-javascript#readme"
+}
