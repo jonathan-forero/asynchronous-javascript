@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/jonathan-forero/asynchronous-javascript#readme",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
